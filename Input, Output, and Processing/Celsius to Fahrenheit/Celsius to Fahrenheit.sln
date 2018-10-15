@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Celsius to Fahrenheit", "Celsius to Fahrenheit\Celsius to Fahrenheit.pyproj", "{3BC920AE-6F99-46F4-9ABF-F2BE9EBB1C23}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BC920AE-6F99-46F4-9ABF-F2BE9EBB1C23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BC920AE-6F99-46F4-9ABF-F2BE9EBB1C23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2693388D-BC81-46D5-AEE5-450FD860D83B}
+	EndGlobalSection
+EndGlobal
