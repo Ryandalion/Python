@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Stock Transaction", "Stock Transaction\Stock Transaction.pyproj", "{C83089F2-76A8-42E2-954D-86E97B37230F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C83089F2-76A8-42E2-954D-86E97B37230F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C83089F2-76A8-42E2-954D-86E97B37230F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F5C6A75-979F-46C4-BD42-A76008F53A3E}
+	EndGlobalSection
+EndGlobal
