@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Miles Per Gallon", "Miles Per Gallon\Miles Per Gallon.pyproj", "{A16C065D-D3A0-44D2-853F-530D237AA4BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A16C065D-D3A0-44D2-853F-530D237AA4BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A16C065D-D3A0-44D2-853F-530D237AA4BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {387C8246-525D-4B06-97BD-A06DA4AA9FF2}
+	EndGlobalSection
+EndGlobal
