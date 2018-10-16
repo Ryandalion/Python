@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Age Calculator", "Age Calculator\Age Calculator.pyproj", "{6F1EC801-2CEE-4515-98D4-56C9E1762F91}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F1EC801-2CEE-4515-98D4-56C9E1762F91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F1EC801-2CEE-4515-98D4-56C9E1762F91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {07EC359E-24F5-464F-BE09-D2009E06EECC}
+	EndGlobalSection
+EndGlobal
