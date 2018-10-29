@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Bug Collector", "Bug Collector\Bug Collector.pyproj", "{64F1F426-ED48-41FD-93BF-2B1C4F8EA0DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64F1F426-ED48-41FD-93BF-2B1C4F8EA0DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64F1F426-ED48-41FD-93BF-2B1C4F8EA0DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81183AF0-615D-4965-899B-2977BA3D6CA4}
+	EndGlobalSection
+EndGlobal
