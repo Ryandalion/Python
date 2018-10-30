@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Distance Travelled", "Distance Travelled\Distance Travelled.pyproj", "{ABB71317-C1F4-4024-939A-9DA5DB6FA206}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABB71317-C1F4-4024-939A-9DA5DB6FA206}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABB71317-C1F4-4024-939A-9DA5DB6FA206}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF46DBB9-BD99-4198-AA83-18270AAE9283}
+	EndGlobalSection
+EndGlobal
