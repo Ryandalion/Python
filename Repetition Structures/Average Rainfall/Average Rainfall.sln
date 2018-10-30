@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Average Rainfall", "Average Rainfall\Average Rainfall.pyproj", "{486B6147-B8BF-4AD4-8E3F-F6DA9E92D89C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{486B6147-B8BF-4AD4-8E3F-F6DA9E92D89C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{486B6147-B8BF-4AD4-8E3F-F6DA9E92D89C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {841607A9-E227-4672-A1DE-E3FF5EC09CD3}
+	EndGlobalSection
+EndGlobal
