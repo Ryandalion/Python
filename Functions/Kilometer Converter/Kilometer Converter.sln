@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Kilometer Converter", "Kilometer Converter\Kilometer Converter.pyproj", "{83E6BD9D-860C-4F26-801D-12B23FCAC9F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83E6BD9D-860C-4F26-801D-12B23FCAC9F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83E6BD9D-860C-4F26-801D-12B23FCAC9F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {670490B5-F782-4FAC-9E88-E34B569C0287}
+	EndGlobalSection
+EndGlobal
