@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Property Tax Assessment", "Property Tax Assessment\Property Tax Assessment.pyproj", "{60F73FFE-F69F-4D85-AC91-EF29D0D1F8CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60F73FFE-F69F-4D85-AC91-EF29D0D1F8CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60F73FFE-F69F-4D85-AC91-EF29D0D1F8CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {805A0549-D70E-405F-8504-8593641A50A7}
+	EndGlobalSection
+EndGlobal
