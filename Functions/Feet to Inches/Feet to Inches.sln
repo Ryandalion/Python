@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Feet to Inches", "Feet to Inches\Feet to Inches.pyproj", "{8D4E9918-27B4-4D70-AF49-38A84A870B03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D4E9918-27B4-4D70-AF49-38A84A870B03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D4E9918-27B4-4D70-AF49-38A84A870B03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02F29110-FCE9-48A2-A990-4F3FF9A408AC}
+	EndGlobalSection
+EndGlobal
