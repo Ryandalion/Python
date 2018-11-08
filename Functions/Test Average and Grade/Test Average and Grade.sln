@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Test Average and Grade", "Test Average and Grade\Test Average and Grade.pyproj", "{0BD9C57C-E199-445C-BFFB-73968C6C2B07}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BD9C57C-E199-445C-BFFB-73968C6C2B07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BD9C57C-E199-445C-BFFB-73968C6C2B07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {86661B27-9E75-4637-B61A-9AE2A97085BE}
+	EndGlobalSection
+EndGlobal
