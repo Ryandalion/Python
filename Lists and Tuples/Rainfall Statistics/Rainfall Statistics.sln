@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Rainfall Statistics", "Rainfall Statistics\Rainfall Statistics.pyproj", "{0540278F-D260-42B2-A943-B9DA0322A86C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0540278F-D260-42B2-A943-B9DA0322A86C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0540278F-D260-42B2-A943-B9DA0322A86C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A628EBAB-6ACC-46B6-955B-6B5C6E9C31B9}
+	EndGlobalSection
+EndGlobal
