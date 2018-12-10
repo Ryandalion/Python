@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Sum of Numbers", "Sum of Numbers\Sum of Numbers.pyproj", "{B90A1FC3-9651-473B-9F84-2031EFAE41E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B90A1FC3-9651-473B-9F84-2031EFAE41E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B90A1FC3-9651-473B-9F84-2031EFAE41E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C945D6BB-5C16-4D89-BCFB-B59AC4FAA26B}
+	EndGlobalSection
+EndGlobal
