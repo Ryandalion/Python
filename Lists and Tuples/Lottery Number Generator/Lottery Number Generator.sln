@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Lottery Number Generator", "Lottery Number Generator\Lottery Number Generator.pyproj", "{98098B6E-5215-40C7-B209-3B291692F1D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98098B6E-5215-40C7-B209-3B291692F1D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98098B6E-5215-40C7-B209-3B291692F1D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06F05F87-7EF1-4FBF-A01D-0BE7E4200AB7}
+	EndGlobalSection
+EndGlobal
