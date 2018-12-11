@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Name Search", "Name Search\Name Search.pyproj", "{EF543BF1-75A5-43B0-99F3-334224DA39BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF543BF1-75A5-43B0-99F3-334224DA39BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF543BF1-75A5-43B0-99F3-334224DA39BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE0FE923-B798-4070-97A8-1A5A6C6A72A7}
+	EndGlobalSection
+EndGlobal
