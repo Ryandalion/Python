@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Word Frequency", "Word Frequency\Word Frequency.pyproj", "{322F530C-60A5-4D54-A5D2-AC0023061AE0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{322F530C-60A5-4D54-A5D2-AC0023061AE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{322F530C-60A5-4D54-A5D2-AC0023061AE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30DB16E4-BA5C-43FB-AAA0-2EBF1DB50F12}
+	EndGlobalSection
+EndGlobal
