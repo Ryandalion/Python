@@ -1,0 +1,3 @@
+In Python, a Dictionary can be created by placing sequence of elements within curly {} braces, separated by ‘comma’. Dictionary holds a pair of values, one being the Key and the other corresponding pair element being its Key:value. Values in a dictionary can be of any datatype and can be duplicated, whereas keys can’t be repeated and must be immutable.
+
+Dictionary can also be created by the built-in function dict(). An empty dictionary can be created by just placing to curly braces{}.
